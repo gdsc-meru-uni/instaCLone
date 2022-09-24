@@ -1,5 +1,5 @@
 # instaCLone
-### Instagram clone build with compose by GDSC Androidcommunity
+### Instagram clone is build with compose by GDSC Androidcommunity
 
 # The session will be hosted Weekly on every Saturday
 
