@@ -8,7 +8,7 @@
 Sessions | Contents to be covered 
 --- | --- |
 *1. First session - sep 24 2022* | ✔️ create the package structure,   ✔️ include all dependencies needed,  ✔️ design *Home Screen* | 
-*2. Second session - oct 1 2022* | Next session | 
+*2. Second session - oct 1 2022* |  ✔️ Design profile screen,  ✔️ Reels screen,  ✔️ Shop screen,  ✔️ Search screen. | 
 
 ## Architecture
 
