@@ -13,6 +13,8 @@ Sessions | Contents covered
 *3. Second session - oct 08 2022* | <h1> ~to do~ </h1>   ✔️ *Reels screen*,  ✔️ *Shop screen*,  ✔️ *Search screen*. | 
 
 
+## Please read on how to contribute on our community project [Link](contributing.md)
+
 
 ---
 # Tech Stack
