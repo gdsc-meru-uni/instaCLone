@@ -1,5 +1,5 @@
 # instaCLone
-### This is IStagram clone built during `Compose Camp` by GDSC Androidcommunity, Meru University
+### This is Instagram clone built during `Compose Camp` by our GDSC Android community, Meru University
 
 # The session will be hosted Weekly on every Saturday
 
