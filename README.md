@@ -6,10 +6,12 @@
 ## RSVP for this event now! [Link](https://gdsc.community.dev/e/mr7n5u/)
 
 
-Sessions | Contents to be covered 
+Sessions | Contents covered 
 --- | --- |
-*1. First session - sep 24 2022* | ✔️ create the package structure,   ✔️ include all dependencies needed,  ✔️ design *Home Screen* | 
-*2. Second session - oct 1 2022* |  ✔️ Design profile screen,  ✔️ Reels screen,  ✔️ Shop screen,  ✔️ Search screen. | 
+*1. First session - sep 24 2022* | ✔️ Introduced `Compose`, ✔️ MVVM Architecture,  ✔️ create the package structure, ✔️ set up package and project structure   ✔️ include all dependencies needed| 
+*2. Second session - sep 30 2022(*Hack Nigt*)* | ✔️ Design the *Home Screen*, ✔️ *Profile screen*. | 
+*3. Second session - oct 08 2022* | <h1> ~to do~ </h1>   ✔️ *Reels screen*,  ✔️ *Shop screen*,  ✔️ *Search screen*. | 
+
 
 
 ---
