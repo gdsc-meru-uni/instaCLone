@@ -17,11 +17,11 @@ Sessions | Contents covered
 ## the UI design to use.
 Home | Reels | Shop
 --- | --- | ---
-<img src="instaUI/home.jpg" width="280"/> | <img src="instaUI/reels2.jpg" width="280"/> | <img src="instUI/shop.jpg" width="280"/>
+<img src="instaUI/home.jpg" width="280"/> | <img src="instaUI/reels2.jpg" width="280"/> | <img src="instaUI/shop.jpg" width="280"/>
 
 Search | Search | Profile
 --- | --- | ---
-<img src="instaUI/search.jpg" width="280"/> | <img src="instaUI/search2.jpg" width="280"/> | <img src="instUI/profile.jpg" width="280"/>
+<img src="instaUI/search.jpg" width="280"/> | <img src="instaUI/search2.jpg" width="280"/> | <img src="instaUI/profile.jpg" width="280"/>
 
 ---
 # Tech Stack
