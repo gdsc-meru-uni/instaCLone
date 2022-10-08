@@ -13,7 +13,11 @@ Sessions | Contents covered
 *3. Second session - oct 08 2022* | <h1> ~to do~ </h1>   ✔️ *Reels screen*,  ✔️ *Shop screen*,  ✔️ *Search screen*. | 
 
 
-## Please read on how to contribute on our community project [Link](contributing.md)
+## Please consider using the recommended package stucture and you can read on how to contribute to this community project [Link](contributing.md)
+
+![project structure G](https://user-images.githubusercontent.com/61431856/194698565-cc9d4773-a3b5-42b8-9c3f-41d4fe593c3f.png)
+
+
 ## the UI design to use.
 Home | Reels | Shop
 --- | --- | ---
