@@ -1,4 +1,4 @@
-package com.example.instaclone.ui.theme
+package com.example.instaclone.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
